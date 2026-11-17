@@ -1,4 +1,5 @@
 # Markdown 语法笔记
+[可参考资料](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## 目录
 * [标题](#标题)
